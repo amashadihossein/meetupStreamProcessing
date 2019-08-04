@@ -1,5 +1,5 @@
 # Project Description
-The main goal is to prototype end-to-end stream processing using meet up RSVP stream as an example
+The main goal is to prototype an end-to-end stream processing workflow using meet up RSVP stream as an example
 
 # Data Source
 RSVP stream from meetup.com: http://stream.meetup.com/2/rsvps
