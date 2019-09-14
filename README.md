@@ -15,3 +15,6 @@ The following technologies will be leveraged
 # Questions Answered
 
 - Tempro-spatial patterns in meet up RSVP
+
+# Here is a brief video giving a brief tour of the prototype
+- https://youtu.be/aTyBg9XzDKw
